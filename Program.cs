@@ -4,7 +4,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        Day3.CalculateBadgePriority();
+        Day4.CountOverlappingPairs();
 
         Console.WriteLine("\nPress any key to exit.");
         System.Console.ReadKey();
