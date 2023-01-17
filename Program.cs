@@ -4,7 +4,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        Day2.CalculateScorePart1();
+        Day3.CalculateBadgePriority();
 
         Console.WriteLine("\nPress any key to exit.");
         System.Console.ReadKey();
