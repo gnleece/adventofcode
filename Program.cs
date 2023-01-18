@@ -4,7 +4,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        Day4.CountOverlappingPairs();
+        Day5.GetTopCrates();
 
         Console.WriteLine("\nPress any key to exit.");
         System.Console.ReadKey();
